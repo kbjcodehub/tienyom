@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">tienyom</string>
+    <string name="signup_btn">sign up</string>
+    <string name="login_btn">login</string>
 </resources>
